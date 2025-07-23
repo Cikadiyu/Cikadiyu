@@ -1,4 +1,6 @@
 <img src="https://github.com/Cikadiyu/Cikadiyu/blob/main/Red%20and%20White%20Modern%20Fitness%20YouTube%20Banner.png" />
+<img src="https://media.giphy.com/media/WLXO8OZmq0JK8/giphy.gif" width="150px" />
+
 
 # 👋 Halo, saya Daniel Abraham!
 Saya adalah seorang pelajar SMK Telkom yang sedang belajar menjadi **Web Developer**.  
