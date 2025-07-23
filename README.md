@@ -1,16 +1,36 @@
-## Hi there 👋
+<img src="https://github.com/Cikadiyu/Cikadiyu/blob/main/Red%20and%20White%20Modern%20Fitness%20YouTube%20Banner.png" />
 
-<!--
-**Cikadiyu/Cikadiyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Halo, saya Daniel Abraham!
+Saya adalah seorang pelajar SMK Telkom yang sedang belajar menjadi **Web Developer**.  
+Tertarik pada dunia **pemrograman**, **desain**, dan **teknologi digital**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Teknologi yang Sedang Saya Pelajari
+
+- 🧱 HTML, CSS, dan JavaScript
+- ⚛️ React.js dan Next.js
+- 🌐 Git & GitHub
+- 🎨 Tailwind CSS
+- 💻 VS Code & Terminal
+
+---
+
+## 📚 Proyek yang Pernah Saya Buat
+
+- 🔗 [Website Portfolio Sederhana](https://github.com/Cikadiyu/portfolio)
+- ✅ [To-Do List App (JavaScript)](https://github.com/Cikadiyu/todo-list)
+- 🕹️ [Game Tebak Angka (JS Sederhana)](https://github.com/Cikadiyu/game-tebak-angka)
+
+---
+
+## 🎯 Target Saya ke Depan
+
+> “Terus belajar dan berkembang sebagai developer muda Indonesia.”
+
+---
+
+## 📫 Kontak
+
+- 📧 Email: danielabraham2404049@gmail.com
+- 🔗 LinkedIn:-
